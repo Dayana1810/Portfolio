@@ -1,1 +1,1 @@
-- <a href="https://dayana-acharyaaaaa.vercel.app/">Portfolio</a>
+- <a href="https://dayana-acharyaaaaa.vercel.app/">Data Analyst Portfolio</a>
